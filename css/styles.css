@@ -1,0 +1,178 @@
+#title {
+    background-color: #fff;
+   
+
+  }
+
+  .summary__company-main-logo{
+     height: 120px;
+     width: 120px;
+  }
+
+.container-fluid{
+    padding: 3% 10%;
+  }
+
+
+  .row{
+    padding: 3.5rem 0;
+ }
+ 
+ h1 {
+      font-family: 'Montserrat', sans-serif;
+      
+      size: 3rem;
+ }
+ 
+ h2{
+   font-family: 'Montserrat', sans-serif;
+   line-height: 1.5;
+   size: 3rem;
+ }
+ 
+ h3{
+   font-family: "Montserrat";
+   padding-top: 3%;
+ 
+ }
+ 
+ .big-heading{
+   font-family: 'Montserrat', sans-serif;
+   font-size: 3.5rem;
+   font-weight: 500;
+ }
+ 
+ .red1{
+    color: red;
+    padding-bottom: 15px;
+ }
+
+ .navbar { 
+   padding: 0 0 4rem 0;
+ }
+
+ .navbar-brand {
+   font-family: "Ubuntu";
+   font-size: 2.5rem;
+   font-weight: bold;
+  
+ }
+ 
+ .navbar-collapse{
+    padding-left: 150px;
+ }
+
+ .nav-item {
+   padding: 0 18px;
+ }
+ 
+ .nav-item-icon{
+    padding: 10px 15px;
+   
+ }
+
+ .first{
+    padding-left: 80px;
+ }
+ .nav-link {
+   font-size: 1.2rem;
+ }
+ 
+ .download-button {
+   margin: 5% 3% 5% 0;
+ }
+ 
+ #title .container-fluid{
+   padding: 3% 15% 7%;
+   text-align: left;
+ }
+
+
+ #detail .container-fluid{
+    padding: 3% 15% 7%;
+    text-align: left;
+  }
+ 
+#title .title-image {
+    width: 100%;
+    padding-bottom: 3%;
+    right: 30%;
+  }
+
+  #note .container-fluid{
+      margin-top: 0%;
+    padding: 0% 15% 3%;
+    text-align: left;
+    background-color:#EEEEEE;
+  }
+ 
+  #note .title-image{
+    width: 85%;
+    padding-bottom: 3%;
+    right: 30%;
+  }
+
+  #features {
+    padding: 0 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+  
+  }
+  .feature-title{
+    font-size: 1.5rem;
+  }
+  
+  .feature-box{
+    padding: 5% 10%;
+  }
+  
+  .icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+    size: 7x;
+  }
+  
+  .icon:hover{
+    color: #ff4c68;
+  }
+
+ .text5{
+    text-align: center;
+    padding-top: 15px;
+  }
+
+  @media (max-width: 1028px){
+    .title-image{
+      position: static;
+  
+    }
+     #title{
+       text-align: center;
+     }
+  
+  }
+  
+  
+#footer{
+    text-align: center;
+   padding-top: 10px;
+    padding-bottom: 2px;
+    margin-bottom: 0%;
+    background-color: red;
+    color: #fff;
+  }
+
+  .log {
+      padding-top: 3px;
+  }
+
+  .contact {
+      padding-bottom: 20px;
+  }
+
+  #detail{
+      padding-top: 0px;
+      margin: 0%;
+      padding-bottom: 0px;
+  }
